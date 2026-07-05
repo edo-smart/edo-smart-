@@ -4,7 +4,7 @@
 
 I am passionate about building intelligent systems through software engineering, machine learning, and continuous learning.
 
-Rather than rushing through tutorials,I enjoy breaking down complex concepts into first principles and reinforcing my understanding by building practical projects.
+Rather than rushing through tutorials,I enjoy breaking down complex concepts into first principles and reinforcing my understanding by building practical projects. 
 
 My goal is to become a Machine Learning Engineer capable of designing, developing, and deploying reliable AI systems that solve real-world problems.
 
