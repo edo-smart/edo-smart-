@@ -4,7 +4,7 @@
 
 I am passionate about building intelligent systems through software engineering, machine learning, and continuous learning.
 
-Rather than rushing through tutorials, I focus on understanding concepts deeply and applying them by building practical projects.
+Rather than rushing through tutorials,I enjoy breaking down complex concepts into first principles and reinforcing my understanding by building practical projects.
 
 My goal is to become a Machine Learning Engineer capable of designing, developing, and deploying reliable AI systems that solve real-world problems.
 
@@ -25,26 +25,33 @@ My goal is to become a Machine Learning Engineer capable of designing, developin
 
 ## 🛠 Tech Stack
 
-### Languages
+## 💻 Programming Languages
 
 - Python
 - SQL
+- C
+- Java
 - Bash
 
-### Tools
+## 📊 Data & Analytics
+
+- NumPy
+- Pandas
+- Matplotlib
+- Power BI
+- Microsoft Excel
+
+## 🛠 Tools
 
 - Git
 - GitHub
 - Linux
 - VS Code
 - Jupyter Notebook
-
+  
 ### Machine Learning
 
-- NumPy
-- Pandas
 - Scikit-learn
-- Matplotlib
 
 ---
 
